@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Go checkout my [Portfolio](https://andyrobreid.github.io/portfolio/) (github pages site) to get familiar with me and stay up to date.
+
 <!--
 **andyrobreid/andyrobreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
